@@ -20,9 +20,6 @@ Healthcare Dataset from Kaggle
 - Business Insights
 - Correlation Analysis
 
-## Key Findings
-- (Add your findings here.)
-
 ## Folder Structure
 images/
 Healthcare_Data_Analysis.ipynb
